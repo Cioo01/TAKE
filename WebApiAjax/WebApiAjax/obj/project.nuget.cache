@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z15Tn64ii9uXn0KCLECMw/oIwIttTQjL/akDeDM8WqxqjvXuTgbS9oCH+rSA/pcD/L8+Rg7zEvEgRCik3Je9GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kkbac\\source\\repos\\WebApiAjax\\WebApiAjax\\WebApiAjax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkbac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\kkbac\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\kkbac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\kkbac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
